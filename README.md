@@ -1,3 +1,3 @@
 # pyramids
 
-Approximate Laplacian pyramids (based on Differences of Gaussians (DoG)) for spatial decompositions
+Approximate Laplacian pyramids (based on Differences of Gaussians (DoG)) for decomposing data into spatial scales
